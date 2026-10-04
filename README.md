@@ -1,6 +1,6 @@
 ﻿# LA-Dodgers-Handedness
 
-According to David Adler, a researcher and reporter for Major League Baseball, “being a lefty matters a lot, whether you're a pitcher, hitter or fielder,” so I decided to put it to the test (Adler 2023).
+According to David Adler, a researcher and reporter for Major League Baseball, “being a lefty matters a lot, whether you're a pitcher, hitter or fielder,” so I decided to put it to the test (Adler 2019).
 
 This project tries to find significant effects of handedness in baseball, specifically, in the LA Dodgers. I have used data sets from https://www.baseball-reference.com/teams/LAD/2026.shtml, which also includes great descriptions of the variables in the data. I conducted independent, unequal variance two sample t tests for the difference in means in all of the potential predictor variables for both pitchers and batters. 
 
